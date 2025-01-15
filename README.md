@@ -8,13 +8,9 @@ This project is a full-stack application built with **Create React App** for the
 
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 - [Scripts](#scripts)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
