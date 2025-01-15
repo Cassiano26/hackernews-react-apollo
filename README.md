@@ -46,16 +46,6 @@ Make sure you have the following tools installed on your system:
 
 ---
 
-## Project Structure
-
-```
-project-name/
-├── client/          # Frontend application (React)
-├── server/          # Backend application (Node.js, GraphQL, Prisma)
-├── .env             # Environment variables
-├── package.json     # Root dependencies
-└── README.md        # Documentation
-```
 
 ---
 
@@ -138,39 +128,9 @@ The frontend application will run on `http://localhost:3000` by default.
 - `npm build` - Builds the React application for production
 
 ---
+## App images
 
-## Environment Variables
-
-### Backend:
-Create a `.env` file in the `server` folder with the following structure:
-
-```env
-DATABASE_URL="file:./dev.db"
-PORT=4000
-```
-
-### Frontend:
-Create a `.env` file in the `client` folder with the following structure:
-
-```env
-REACT_APP_GRAPHQL_ENDPOINT=http://localhost:4000/graphql
-```
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+![Screenshot from 2025-01-15 20-39-36](https://github.com/user-attachments/assets/b5dc2cfc-d1d6-4e17-99d0-894e25aa7d77)
+![Screenshot from 2025-01-15 20-39-25](https://github.com/user-attachments/assets/f7683325-dc86-4e68-a2b4-dd65173fdbf2)
+![Screenshot from 2025-01-15 20-39-18](https://github.com/user-attachments/assets/10f6eb37-6cc8-485d-b123-efb1a58f7ee2)
+![Screenshot from 2025-01-15 16-13-45](https://github.com/user-attachments/assets/75d4087b-7522-44af-953f-0ad59ece6f5e)
